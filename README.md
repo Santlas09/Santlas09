@@ -70,22 +70,22 @@
 
 ## 🌟 Featured Projects
 
-### 📱 [AS New InMotions](https://github.com/Santlas09/AS-New-InMotions) — Flutter
+### 📱 [AS New InMotions](https://github.com/ISCOUTB/AS_New_InMotions) — Flutter
 > Cross-platform mobile application
 - User-centered mobile experience built for real-world needs
 - **Tech:** Flutter · Dart
 
-### 📲 [DH InMotions](https://github.com/Santlas09/DH-InMotions) — Flutter
+### 📲 [DH InMotions](https://github.com/ISCOUTB/DH-InMotions) — Flutter
 > Cross-platform mobile solution
 - Seamless multi-platform experience across Android and iOS
 - **Tech:** Flutter · Dart
 
-### 🌐 [Savio Redesign](https://github.com/Santlas09/Savio-Redesign)
+### 🌐 [Savio Redesign](https://github.com/ISCOUTB/AS-clasesSAVIO)
 > Modern web redesign project
 - Full UI/UX redesign with attention to design systems, accessibility, and user experience
 - **Tech:** Next.js · React · Tailwind CSS
 
-### 🖥️ [Personal Portfolio](https://github.com/Santlas09/personal-portfolio)
+### 🖥️ [Personal Portfolio](https://github.com/Santlas09/Portfolio)
 > Developer portfolio website
 - Clean, responsive portfolio showcasing projects, skills, and contact info
 - **Tech:** Next.js · React · Tailwind CSS
