@@ -98,7 +98,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Santlas09/Santlas09/main/github-metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://raw.githubusercontent.com/Santlas09/Santlas09/refs/heads/main/github-metrics.svg?token=GHSAT0AAAAAAD5M6OCCSAQIBPNR4WZPFB4E2RE4GTQ" alt="GitHub Metrics"/>
 </p>
 
 <p align="center">
