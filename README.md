@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-👋 Hi! I'm **Santiago Reyes**, a **Systems and Computing Engineering** student at **Universidad Tecnológica de Bolívar** 🇨🇴, based in **Cartagena, Colombia**.
+👋 Hi! I'm **Santiago Reyes**, a **Systems and Computing Engineering** student at **Universidad Tecnológica de Bolívar** 🇨🇴, based in **Colombia**.
 
 🏆 **2nd Place — Desafío X-Pro 2026** — competing in high-pressure, real-world problem-solving challenges.
 
