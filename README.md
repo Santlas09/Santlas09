@@ -146,6 +146,9 @@ I'm always interested in discussing:
 📫 Reach out: [sabtiago8401@gmail.com](mailto:sabtiago8401@gmail.com) | [linkedin.com/in/santlas](https://www.linkedin.com/in/santlas)
 
 <p align="center">
+  <a href="https://portfolio-five-puce-20.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/CV%20Online-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/santlas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
