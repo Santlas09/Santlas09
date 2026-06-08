@@ -18,8 +18,6 @@
 
 👋 Hi! I'm **Santiago Reyes**, a **Systems and Computing Engineering** student at **Universidad Tecnológica de Bolívar** 🇨🇴, based in **Colombia**.
 
-🏆 **2nd Place — Desafío X-Pro 2026** — competing in high-pressure, real-world problem-solving challenges.
-
 📱 I specialize in **mobile development** with **Flutter & Dart** and **web development** with **Next.js & React**, always focused on shipping real, user-centered products.
 
 🌎 Bilingual — Spanish (native) · English (advanced)
